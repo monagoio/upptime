@@ -1,7 +1,7 @@
 url: https://api.monago.io
-status: up
-code: 200
-responseTime: 87
-lastUpdated: 2022-06-06T08:50:13.776Z
+status: down
+code: 502
+responseTime: 84
+lastUpdated: 2022-06-06T09:45:28.818Z
 startTime: Fri May 27 2022 04:31:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
