@@ -22,10 +22,17 @@ status-website:
   introTitle: "**Monago Upptime** is the uptime monitor for monago services"
   introMessage: Thank you for visiting, happy nice day!
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    - title: Home
+      href: https://monago.io
+    - title: Dashboard
+      href: https://cloud.monago.io
+    - title: Issue
+      href: https://github.com/$OWNER/$REPO/issues
+  theme: night
+      
+assignees:
+  - ibidathoillah
+  - huseindra
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
