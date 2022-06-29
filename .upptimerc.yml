@@ -30,9 +30,9 @@ status-website:
       href: https://github.com/$OWNER/$REPO/issues
   theme: night
       
-assignees:
-  - ibidathoillah
-  - huseindra
+# assignees:
+#   - ibidathoillah
+#   - huseindra
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
